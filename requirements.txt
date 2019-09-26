@@ -1,0 +1,2 @@
+py3exiv2
+Pyside2
